@@ -65,7 +65,6 @@
 
 ## Dangerous Settings / Misconfigurations:
 
-* * *
 
 | Setting | Description | Risk |
 | --- | --- | --- |
