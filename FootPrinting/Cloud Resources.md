@@ -29,13 +29,13 @@ Cloud services like **AWS**, **GCP**, and **Azure** are crucial for modern busin
 
 ### GrayHatWarfare Results:- [GrayHatWarfare](https://buckets.grayhatwarfare.com/)
 
-![293721cec9de070e9b12a697bf4175c1.png](../../_resources/293721cec9de070e9b12a697bf4175c1.png)
+![293721cec9de070e9b12a697bf4175c1.png](../_resources/293721cec9de070e9b12a697bf4175c1.png)
 
 * * *
 
 ### Private and Public SSH Keys Leaked
 
-![460d19e398313326fa55eb82c392eff4.png](../../_resources/460d19e398313326fa55eb82c392eff4.png)
+![460d19e398313326fa55eb82c392eff4.png](../_resources/460d19e398313326fa55eb82c392eff4.png)
 
 * * *
 
