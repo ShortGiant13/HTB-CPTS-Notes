@@ -12,7 +12,6 @@ NFS allows access to file systems over a network as if they were local, but it i
 
 ## Default Configuration
 
-* * *
 
 ### Exports File
 
