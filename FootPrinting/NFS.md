@@ -34,7 +34,6 @@ Defines shared folders, sets permissions for hosts/subnets, and adds options for
 
 ## Dangerous Settings
 
-* * *
 
 | **Option** | **Description** |
 | --- | --- |
@@ -47,7 +46,6 @@ Defines shared folders, sets permissions for hosts/subnets, and adds options for
 
 ## Footprinting the Service
 
-* * *
 
 ### Nmap
 
