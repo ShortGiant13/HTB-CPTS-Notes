@@ -78,7 +78,6 @@
 
 ## Footprinting the Service
 
-* * *
 
 #### Scanning MySQL Server
 
@@ -96,7 +95,6 @@
 
 ## MySQL Commands
 
-* * *
 
 Some of the commands we should remember and write down for working with MySQL databases are described below in the table.
 
