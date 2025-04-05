@@ -23,7 +23,7 @@ Cloud services like **AWS**, **GCP**, and **Azure** are crucial for modern busin
 
 ### Domain.Glass :- [domain.glass](https://domain.glass/)
 
-![b597cf677b2a032d5b0d60e2863adabf.png](../../_resources/b597cf677b2a032d5b0d60e2863adabf.png)
+![b597cf677b2a032d5b0d60e2863adabf.png](../_resources/b597cf677b2a032d5b0d60e2863adabf.png)
 
 * * *
 
