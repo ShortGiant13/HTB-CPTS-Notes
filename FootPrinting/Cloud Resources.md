@@ -1,3 +1,5 @@
+# Cloud Resources
+* * *
 Cloud services like **AWS**, **GCP**, and **Azure** are crucial for modern businesses, offering centralized management for remote work. While cloud providers secure their infrastructure, **misconfigurations by administrators** can still lead to vulnerabilities. Common issues include **S3 buckets (AWS)**, **blobs (Azure)**, and **cloud storage (GCP)** that are **insecurely configured** and accessible without authentication. Proper configuration is essential to prevent such risks.
 
 * * *
