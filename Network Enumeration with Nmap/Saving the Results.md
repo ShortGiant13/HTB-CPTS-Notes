@@ -32,6 +32,6 @@ The **XML output (`-oX`)** allows easy conversion to **HTML reports** for clear 
 
 ### Nmap Report
 
-![df1c1ff7a6f25eb7ec63f47a85e8a109.png](../../_resources/df1c1ff7a6f25eb7ec63f47a85e8a109.png)
+![df1c1ff7a6f25eb7ec63f47a85e8a109.png](../_resources/df1c1ff7a6f25eb7ec63f47a85e8a109.png)
 
 &nbsp;
