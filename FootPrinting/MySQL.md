@@ -30,7 +30,6 @@
 
 ## Default Configuration
 
-* * *
 
 | **Section** | **Directive** | **Value** |
 | --- | --- | --- |
