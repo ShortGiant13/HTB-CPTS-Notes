@@ -20,7 +20,7 @@ The goal is to gather knowledge, not just exploit.
 | `Infrastructure-based enumeration` | `Host-based enumeration` | `OS-based enumeration` |
 | --- | --- | --- |
 
-![image](../../_resources/enum-method3.png)
+![image](../_resources/enum-method3.png)
 
 **Note**: The layers represent main categories, not a complete list of components to search for. The **Internet Presence** and **Gateway** layers don't apply to internal networks like **Active Directory** infrastructure. Internal infrastructure layers will be covered in other modules.
 
