@@ -20,7 +20,7 @@ DNS translates domain names (e.g., [www.hackthebox.com](http://www.hackthebox.co
 
 &nbsp;
 
-![ac2eeabe3a88e5aa18a8984abdb9d743.png](../../_resources/ac2eeabe3a88e5aa18a8984abdb9d743.png)
+![ac2eeabe3a88e5aa18a8984abdb9d743.png](../_resources/ac2eeabe3a88e5aa18a8984abdb9d743.png)
 
 * * *
 
