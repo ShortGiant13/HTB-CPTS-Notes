@@ -26,7 +26,7 @@
 3.  Samrdump: [Samrdump.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/samrdump.py)
 4.  SMB Map: [SmbMap](https://github.com/ShawnDEvans/smbmap)
 5.  CrackMapExec: [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
-6.  Enum4linux-ng: [enu4linux](https://github.com/cddmp/enum4linux-ng)
+6.  Enum4linux-ng: [enum4linux](https://github.com/cddmp/enum4linux-ng)
 
 * * *
 
