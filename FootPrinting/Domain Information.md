@@ -1,3 +1,5 @@
+# Domain Information
+
 ### Certificate Transparency
 
 `curl -s https://crt.sh/\?q\=inlanefreight.com\&output\=json | jq .`
