@@ -1,3 +1,5 @@
+# Enumeration Principle
+
 **Enumeration**: Information gathering using active (scans) and passive (third-party) methods. Unlike OSINT, which is purely passive, enumeration is an active loop of gathering and refining data.
 
 **Goal**: Understand the company's infrastructure, services, and protocols, not just brute-force entry points. The key is to map out the environment before trying to exploit vulnerabilities.
