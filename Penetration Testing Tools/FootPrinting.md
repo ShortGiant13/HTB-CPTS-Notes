@@ -67,3 +67,22 @@ Oracle TNS
 
 1.  ODAT: [Oracle Database Attacking Tools](https://github.com/quentinhardy/odat "Oracle Database Attacking Tools ") `sudo apt install odat`
 2.  SqlPlus: [Oracle Instant Client](https://gist.github.com/rutcreate/778ade900fa144bf9a16aa405082fb45)
+3.  SqlPlus Commands: [All Possible](https://docs.oracle.com/cd/E11882_01/server.112/e41085/sqlqraa001.htm#SQLQR985)
+4.  Hydra: [Present in Kali](https://github.com/vanhauser-thc/thc-hydra)
+
+* * *
+
+IPMI
+
+1.  IPMITool: [Core Tool](https://github.com/ipmitool/ipmitool)
+
+* * *
+
+Linux Remote Management Protocols
+
+1.  SSHAudit: [ssh configuration auditing tool](https://github.com/jtesta/ssh-audit)
+2.  Rsync: [Fast copy and move Files](https://github.com/RsyncProject/rsync)
+
+* * *
+
+&nbsp;
